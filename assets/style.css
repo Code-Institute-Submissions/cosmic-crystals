@@ -5,3 +5,11 @@
     padding: 0;
     border: none;
 }
+
+/* logo */
+#logo{
+    font-family: Chivo Mono, monospace;
+    color: #e1c4ff;
+    float: left;
+    font-size: 280%;
+}
