@@ -3,6 +3,8 @@ Cosmic Crystals is a site that educates users on the purpose & properties of cry
 <!-- Add Am I Responsive? image -->
 
 # Features
+### Existing Features
+- __Navigation Bar__
 
 
 # Testing
