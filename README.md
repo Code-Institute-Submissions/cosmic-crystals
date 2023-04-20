@@ -12,6 +12,12 @@ Cosmic Crystals is a site that educates users on the purpose & properties of cry
 
 ![Nav Bar](../cosmic-crystals/assets/images/nav-bar.png)
 
+- __Landing Page Image__
+
+-The landing page image includes a collection of various crystals which entices the user as the colour palette of purple & green within the photo matches the colours used in the logo & navigation bar; therefore, this draws the users' attention to the categories of content the site harbours which makes it easier for the user to locate the information they desire.
+
+![Landing Page Image](../cosmic-crystals/assets/images/landing-page-image.png)
+
 # Testing
 
 
