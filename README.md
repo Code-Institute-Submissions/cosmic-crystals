@@ -3,18 +3,16 @@ Cosmic Crystals is a site that educates users on the purpose & properties of cry
 <!-- Add Am I Responsive? image -->
 
 # Features
-### Existing Features
+## Existing Features
 - __Navigation Bar__ 
 
--The navigation bar features on all three pages of the site; this is valuable for the user as they can identify the location of their desired content quicker.
+-The navigation bar features on all three pages of the site & the colour palette conisting of purple & green blends seamlessly & consistently across the site; this is valuable for the user as they can identify the location of their desired content quicker.
 
--What's more, as the site targets those interested in crystals, the category of 'Properties' is tailored towards those with little/no knowledge of crystals & the site educates users on the purpose & value of using various crystals. The category of 'Techniques' targets those who understand the different energies & powers crystals possess and may have a collection of their own though they're unsure which methods are the best to use to utilise the energies of each crystal.
-
-![Nav Bar](../cosmic-crystals/assets/images/nav-bar.png)
+![Nav Bar](../cosmic-crystals/assets/images/nav-bar-image.png)
 
 - __Landing Page Image__
 
--The landing page image includes a collection of various crystals which entices the user as the colour palette of purple & green within the photo matches the colours used in the logo & navigation bar; therefore, this draws the users' attention to the categories of content the site harbours which makes it easier for the user to locate the information they desire.
+
 
 ![Landing Page Image](../cosmic-crystals/assets/images/landing-page-image.png)
 
@@ -25,3 +23,8 @@ Cosmic Crystals is a site that educates users on the purpose & properties of cry
 
 
 # Credits
+## Content
+
+## Code
+-Code on how to add a favicon in HTML was taken from the example code on: [W3School HTML Favicon Tutorial ](https://www.w3schools.com/html/html_favicon.asp#:~:text=To%20add%20a%20favicon%20to,is%20%22favicon.ico%22.).
+## Media
