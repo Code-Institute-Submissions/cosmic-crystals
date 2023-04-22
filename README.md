@@ -27,4 +27,5 @@ Cosmic Crystals is a site that educates users on the purpose & properties of cry
 
 ## Code
 -Code on how to add a favicon in HTML was taken from the example code on: [W3School HTML Favicon Tutorial ](https://www.w3schools.com/html/html_favicon.asp#:~:text=To%20add%20a%20favicon%20to,is%20%22favicon.ico%22.).
+-Code on how to add an animated button with a hover effect was taken from the example code on: [W3School Animated Buttons Tutorial ](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_buttons_animate1).
 ## Media
