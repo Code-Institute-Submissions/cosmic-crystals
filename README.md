@@ -1,5 +1,6 @@
-# Cosmic Crystals
-Cosmic Crystals is a site that educates users on the purpose & properties of crystals; it targets interested individuals keen to learn a variety of techniques regarding using the energy of crystals to become the highest version of themselves. 
+<h1 align="center">Cosmic Crystals</h1>
+<!-- Insert live project link here -->
+Cosmic Crystals is a fictional business that primarily promotes raw crystals; its product range also consists of incense, essential oils & charging bowls to cleanse the energy of the crystals. The site targets those with little/no knowledge regarding the use of crystals & their energy. As a result, the site is useful for its users as they have the ability to seek out information & guidance regarding the various properties across a range of crystals alongside the aftercare in maintaining the crystals' energy.
 <!-- Add Am I Responsive? image -->
 
 # Features
