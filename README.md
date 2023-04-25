@@ -31,18 +31,19 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
         1. As a Frequent User, I want to sign-up for frequent competition draws to be in a chance to win mystery crystal confetti scoops. 
 
 # Features
-## Existing Features
-- __Navigation Bar__ 
 
--The navigation bar features across all three pages of the site & the colour palette conisting of purple & green blends seamlessly & consistently across the site; this is valuable for the user as they can identify the location of their desired content quicker.
+### Existing Features
 
-![Nav Bar](../cosmic-crystals/assets/images/nav-bar-image.png)
+-   __F01 Navigation Bar__
 
-- __Landing Page Image__
+    - The navigation bar appears across all three pages to support the user's navigation across the content. What's more, the colour tones used in the navigation links are consistent with the colour palette across the site, which in turn, allows the navigation bar to blend in seamlessly with the other site features. 
+
+      ![Navbar](../cosmic-crystals/assets/images/nav-bar-image.png)
 
 
 
-![Landing Page Image](../cosmic-crystals/assets/images/landing-page-image.png)
+
+
 
 # Testing
 
