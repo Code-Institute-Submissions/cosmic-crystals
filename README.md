@@ -3,6 +3,18 @@
 Cosmic Crystals is a fictional business that primarily promotes raw crystals; its product range also consists of incense, essential oils & charging bowls to cleanse the energy of the crystals. The site targets those with little/no knowledge regarding the use of crystals & their energy. As a result, the site is useful for its users as they have the ability to seek out information & guidance regarding the various properties across a range of crystals alongside the aftercare in maintaining the crystals' energy.
 <!-- Add Am I Responsive? image -->
 
+
+# Index – Table of Contents
+* [User Experience (UX)](#user-experience-ux) 
+* [Features](#features)
+* [Design](#design)
+* [Technologies Used](#technologies-used)
+* [Testing](#testing)
+* [Deployment](#deployment)
+* [Credits](#credits)
+
+# User Experience (UX)
+
 # Features
 ## Existing Features
 - __Navigation Bar__ 
