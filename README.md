@@ -40,6 +40,12 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
 
       ![Navbar](../cosmic-crystals/assets/images/nav-bar-image.png)
 
+-   __F02 Landing Page & Call to Action__
+
+    - 
+
+      ![Landing Page](../cosmic-crystals/assets/images/hero-image-cta.png)
+
 
 
 
