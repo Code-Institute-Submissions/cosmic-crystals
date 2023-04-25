@@ -14,12 +14,27 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
 * [Credits](#credits)
 
 # User Experience (UX)
+-   ### User stories
+
+    -   #### A. First Time Visitor Goals
+
+        1. As a First-Time visitor, I want to understand the purpose behind the use of crystals & the value they add to the quality of life.
+        2. As a First-Time visitor, I want to locate the product portfolio by navigating through the site with ease. 
+        3. As a First-Time Visitor, I want to understand the description associated with the crystal with clarity. 
+
+    -   #### B. Returning Visitor Goals
+
+        1. As a Returning Visitor, I want to navigate confidently through the 'Properties' page to locate the desired crystals & their associated information. 
+        2. As a Returning Visitor, I want to identify social media links to contact the business regarding further detailed information or advice when deciding which crystals to purchase.
+
+    -   #### C. Frequent User Goals
+        1. As a Frequent User, I want to sign-up for frequent competition draws to be in a chance to win mystery crystal confetti scoops. 
 
 # Features
 ## Existing Features
 - __Navigation Bar__ 
 
--The navigation bar features on all three pages of the site & the colour palette conisting of purple & green blends seamlessly & consistently across the site; this is valuable for the user as they can identify the location of their desired content quicker.
+-The navigation bar features across all three pages of the site & the colour palette conisting of purple & green blends seamlessly & consistently across the site; this is valuable for the user as they can identify the location of their desired content quicker.
 
 ![Nav Bar](../cosmic-crystals/assets/images/nav-bar-image.png)
 
