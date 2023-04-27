@@ -232,6 +232,15 @@ section h1{
         margin: 1%;
     }
     
+    /* form section */
+
+    .form-section{
+        background-image: url(https://images.pexels.com/photos/1121123/pexels-photo-1121123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+        background-size:cover;
+        background-repeat:no-repeat;
+        height: 900px;
+        clear: left;
+    }
 
    
     

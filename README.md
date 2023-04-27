@@ -60,6 +60,7 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
       1). Social Media Links: 
       - The social media links are valuable to the user as it improves their ease of navigation across the site as the links open in a separate tab & it encourages the users to communicate to seek out additional information regarding products they're interested in. The social media links are valuable to the user as it improves their ease of navigation across the site as the links open in a separate tab & it encourages the users to communicate to seek out additional information regarding products they're interested in. 
       - What's more, the links are beneficial for the business as it promotes greater brand awareness since social media posts could provide exclusive insight into new & upcoming crystals whilst also advocating for their Etsy shop, where users can purchase their products. 
+      - (As Cosmic Crystals is a fictitious business, the social media links only direct the user to the social media websites).
     
     
       ![Footer](../cosmic-crystals/assets/images/footer.png)
