@@ -79,6 +79,7 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
 -   [Google Fonts:](https://fonts.google.com/) was used to import the 'Chivo Mono' and 'Space Grotesk' fonts into the style.css file which are used on all pages of the project.
 -   [Git:](https://git-scm.com/) was used for utilising the Gitpod terminal to commit to Git and Push to GitHub.
 -   [GitHub:](https://github.com/) is used as the respository for the projects code after being pushed from Git.
+-   [Font Awesome:](https://fontawesome.com/) was used to add icons for social media links located in the footer.
 
 
 
@@ -110,3 +111,5 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
 - The fonts 'Chivo Mono' & 'Space Grotesk' were imported from [Google Fonts](https://fonts.google.com/).
 - The hero-image by [Castorly Stock](https://www.pexels.com/@castorlystock/) was taken from [Pexels](https://www.pexels.com/photo/close-up-photo-of-crystals-3725728/)
 - The animated images for the flip-card animation are from [Freepik](https://www.freepik.com/) & the following author [Vectorjuice](https://www.freepik.com/author/vectorjuice).
+- The social media icons in the footer were imported from [Font Awesome:](https://fontawesome.com/)
+- The background image by [Jonny Lew](https://www.pexels.com/@jonnylew/) for the form section was taken from [Pexels](https://www.pexels.com/photo/closeup-photo-of-purple-gemstones-1121123/)
