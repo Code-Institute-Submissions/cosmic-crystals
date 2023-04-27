@@ -47,6 +47,12 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
 
       ![Landing Page](../cosmic-crystals/assets/images/hero-image-cta.png)
 
+-   __F03 Crystal Benefits Section__
+
+    - The 'Crystal Benefits' section, portrayed as four flip-card animations, is informative about the business's purpose due to the fact it calls the users' attention to the various ways crystals can be utilised and how it is unique to each individual's desires/needs. 
+    
+      ![Benefits of using Crystals](../cosmic-crystals/assets/images/crystal-benefits-section.png)
+
 
 # Technologies Used
 
