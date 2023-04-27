@@ -246,13 +246,13 @@ section h1{
         background-color:rgba(176, 224, 230, .7);
         width: 900px;
         margin: 20%;
-        position: absolute;
+        position:absolute;
     }
 
     form > h2{
         font-family: 'Chivo Mono', monospace;
         color: white;
-        font-size: 40px;
+        font-size: 30px;
         text-transform: capitalize;
         text-align: center;
     }
