@@ -48,7 +48,19 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
       ![Landing Page](../cosmic-crystals/assets/images/hero-image-cta.png)
 
 
+# Technologies Used
 
+### Languages Used
+
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+### Frameworks, Libraries & Programs Used
+
+-   [Google Fonts:](https://fonts.google.com/) was used to import the 'Chivo Mono' and 'Space Grotesk' fonts into the style.css file which are used on all pages of the project.
+-   [Git:](https://git-scm.com/) was used for utilising the Gitpod terminal to commit to Git and Push to GitHub.
+-   [GitHub:](https://github.com/) is used as the respository for the projects code after being pushed from Git.
+-   [Balsamiq:](https://balsamiq.com/) was used to create the wireframes during the design process.
 
 
 
