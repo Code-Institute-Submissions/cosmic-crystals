@@ -78,6 +78,8 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
 # Credits
 ## Content
 - The structure & content topics of the README file are inspired by my mentor, Elaine Roche, from her README file for 'Thrive'.
+- Content for the flip-card animation was taken from:
+  - [Healthline](https://www.healthline.com/health/healing-crystals-what-they-can-do-and-what-they-cant)
 
 ## Code
 - Code on how to add a favicon in HTML was taken from the example code on: [W3School HTML Favicon Tutorial ](https://www.w3schools.com/html/html_favicon.asp#:~:text=To%20add%20a%20favicon%20to,is%20%22favicon.ico%22.).   
@@ -90,4 +92,5 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
 - The favicon in the browser tab was taken from [Icons8](https://icons8.com/icons/set/crystals).
 - The fonts 'Chivo Mono' & 'Space Grotesk' were imported from [Google Fonts](https://fonts.google.com/).
 - The hero-image by [Castorly Stock](https://www.pexels.com/@castorlystock/) was taken from [Pexels](https://www.pexels.com/photo/close-up-photo-of-crystals-3725728/)
-- The animated image by [Vectorjuice](https://www.freepik.com/author/vectorjuice) was taken from [Freepik](https://www.freepik.com/).
+- The animated images for the flip-card animation are from [Freepik](https://www.freepik.com/) from the following authors:
+  - [Vectorjuice](https://www.freepik.com/author/vectorjuice).
