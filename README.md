@@ -84,7 +84,10 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
 
 - Code on how to add an animated button with a hover effect was taken from the example code on: [W3School Animated Buttons Tutorial ](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_buttons_animate1).
 
+- Code on how to create the flip-card animation as seen on the landing page was taken from: [W3School Flip Card Tutorial](https://www.w3schools.com/howto/howto_css_flip_card.asp).
+
 ## Media
 - The favicon in the browser tab was taken from [Icons8](https://icons8.com/icons/set/crystals).
 - The fonts 'Chivo Mono' & 'Space Grotesk' were imported from [Google Fonts](https://fonts.google.com/).
 - The hero-image by [Castorly Stock](https://www.pexels.com/@castorlystock/) was taken from [Pexels](https://www.pexels.com/photo/close-up-photo-of-crystals-3725728/)
+- The animated image by [Vectorjuice](https://www.freepik.com/author/vectorjuice) was taken from [Freepik](https://www.freepik.com/).
