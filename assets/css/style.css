@@ -8,8 +8,6 @@
     border: none;
 }
 
-
-
 /* logo */
 #logo{
     font-family: Chivo Mono, monospace;
@@ -193,8 +191,8 @@ section h1{
     .flip-card-back h1{
         font-family: 'Chivo Mono', monospace;
         color: rgb(0,0,139);
-        text-decoration: underline;
         text-transform: uppercase;
+        text-decoration: none;
     }
 
     #flip-card-container{
@@ -206,11 +204,12 @@ section h1{
 
     /* footer */
     footer{
-        height: 150px;
+        height: 20%;
+        display: inline;
     }
     
     .social-media-links{
-        text-align: center;
+        text-align: right;
     }
 
     .social-media-links > li {
@@ -218,10 +217,21 @@ section h1{
     }
     
     .social-media-links i {
-        font-size: 180%;
+        font-size: 1.5em;
         margin: 1%;
-        padding: 3%
+        padding: 2%;
     }
+
+    #copyright{
+        font-family: Space Grotesk, sans-serif;
+        color: #8ABD91;
+        text-transform: capitalize;
+        font-size: 1.5em;
+        float: left;
+        padding-top: 2%;
+        margin: 1%;
+    }
+    
 
    
     
