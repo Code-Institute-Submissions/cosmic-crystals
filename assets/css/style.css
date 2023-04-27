@@ -204,7 +204,24 @@ section h1{
         justify-content: space-around;
     }
 
+    /* footer */
+    footer{
+        height: 150px;
+    }
     
+    .social-media-links{
+        text-align: center;
+    }
+
+    .social-media-links > li {
+        display: inline;
+    }
+    
+    .social-media-links i {
+        font-size: 180%;
+        margin: 1%;
+        padding: 3%
+    }
 
    
     
