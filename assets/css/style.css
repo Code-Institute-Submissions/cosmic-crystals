@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300&family=Chivo+Mono&family=Space+Grotesk:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono&family=Space+Grotesk:wght@300&display=swap');
 
 
 
@@ -132,3 +132,13 @@
     right: 0;
   }
 
+/* Crystal Benefits */
+section h1{
+    color: rgb(0,0,139);
+    font-family: 'Chivo Mono', monospace;
+    font-size: 2rem;
+    text-align: center;
+    padding-top: 20px;
+    text-transform: capitalize;
+    text-decoration: underline;
+}

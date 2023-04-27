@@ -77,10 +77,14 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
 
 # Credits
 ## Content
--The structure & content topics of the README file are inspired by my mentor, Elaine Roche, from her README file for 'Thrive'.
+- The structure & content topics of the README file are inspired by my mentor, Elaine Roche, from her README file for 'Thrive'.
 
 ## Code
--Code on how to add a favicon in HTML was taken from the example code on: [W3School HTML Favicon Tutorial ](https://www.w3schools.com/html/html_favicon.asp#:~:text=To%20add%20a%20favicon%20to,is%20%22favicon.ico%22.).   
+- Code on how to add a favicon in HTML was taken from the example code on: [W3School HTML Favicon Tutorial ](https://www.w3schools.com/html/html_favicon.asp#:~:text=To%20add%20a%20favicon%20to,is%20%22favicon.ico%22.).   
 
--Code on how to add an animated button with a hover effect was taken from the example code on: [W3School Animated Buttons Tutorial ](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_buttons_animate1).
+- Code on how to add an animated button with a hover effect was taken from the example code on: [W3School Animated Buttons Tutorial ](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_buttons_animate1).
+
 ## Media
+- The favicon in the browser tab was taken from [Icons8](https://icons8.com/icons/set/crystals).
+- The fonts 'Chivo Mono' & 'Space Grotesk' were imported from [Google Fonts](https://fonts.google.com/).
+- The hero-image by [Castorly Stock](https://www.pexels.com/@castorlystock/) was taken from [Pexels](https://www.pexels.com/photo/close-up-photo-of-crystals-3725728/)
