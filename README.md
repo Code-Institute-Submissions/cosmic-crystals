@@ -60,15 +60,20 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
 -   [Google Fonts:](https://fonts.google.com/) was used to import the 'Chivo Mono' and 'Space Grotesk' fonts into the style.css file which are used on all pages of the project.
 -   [Git:](https://git-scm.com/) was used for utilising the Gitpod terminal to commit to Git and Push to GitHub.
 -   [GitHub:](https://github.com/) is used as the respository for the projects code after being pushed from Git.
--   [Balsamiq:](https://balsamiq.com/) was used to create the wireframes during the design process.
 
 
 
 # Testing
 
-
 # Deployment
 
+### How this site was deployed
+
+- 1). In the GitHub repository, click the Settings icon, followed by the Pages tab on the left-hand menu. 
+- 2). On the Source dropdown menu, select 'deploy from a branch'. 
+- 3). On 'branch deployment' had been selected, underneath, set the branch type to 'main' and the folder type to 'root'; once selected press 'Save' to successfully deploy the site.  
+
+  The live link can be found here - [Cosmic Crystals](https://lucynowland.github.io/cosmic-crystals/) 
 
 # Credits
 ## Content
