@@ -42,7 +42,8 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
 
 -   __F02 Landing Page & Call to Action__
 
-    - 
+    - The landing page incorporates a hero image of a collection of crystals alongside a text overlay; this is useful as it conveys a brief overview of the product portfolio to the site users. 
+    - Nonetheless, the call to action of 'View our range of crystals' aligns centrally underneath the text overlay to provide the user with greater ease of navigation directly to the 'Properties' page. 
 
       ![Landing Page](../cosmic-crystals/assets/images/hero-image-cta.png)
 
@@ -59,8 +60,10 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
 
 # Credits
 ## Content
+-The structure & content topics of the README file are inspired by my mentor, Elaine Roche, from her README file for 'Thrive'.
 
 ## Code
--Code on how to add a favicon in HTML was taken from the example code on: [W3School HTML Favicon Tutorial ](https://www.w3schools.com/html/html_favicon.asp#:~:text=To%20add%20a%20favicon%20to,is%20%22favicon.ico%22.).
+-Code on how to add a favicon in HTML was taken from the example code on: [W3School HTML Favicon Tutorial ](https://www.w3schools.com/html/html_favicon.asp#:~:text=To%20add%20a%20favicon%20to,is%20%22favicon.ico%22.).   
+
 -Code on how to add an animated button with a hover effect was taken from the example code on: [W3School Animated Buttons Tutorial ](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_buttons_animate1).
 ## Media
