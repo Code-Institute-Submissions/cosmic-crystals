@@ -307,6 +307,10 @@ section h1{
     }
 
     /* properties page */
+    #properties-page{
+        background-color: #e1c4ff;
+        clear: both;
+    }
     #crystal-products{
         font-family: 'Chivo Mono', monospace;
         color: rgb(0,0,139);
@@ -321,8 +325,29 @@ section h1{
         width: 350px;
         height: 275px;
         margin-left: 15px;
-        border: 5px solid #e1c4ff;
+        margin-right: 15px;
+        border: 5px solid #8ABD91;
+        float: left;
     }
+
+    #hc-container{
+        align-items: center;
+        justify-content: center;
+    }
+
+    p{
+        color: #FFFFFF;
+        font-family: 'Space Grotesk', sans-serif;
+        font-size: 20px;
+    }
+
+    #product-title {
+        font-family: 'Chivo Mono', monospace;
+        font-size: 25px;
+        color: rgb(0,0,139);
+        text-decoration: underline;
+    }
+    
     
     
 
