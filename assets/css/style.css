@@ -272,7 +272,7 @@ section h2{
         border-color: #e1c4ff;
     }
 
-    legend {
+    fieldset > legend {
         font-family: 'Chivo Mono', monospace;
         text-decoration: underline;
         color: white;

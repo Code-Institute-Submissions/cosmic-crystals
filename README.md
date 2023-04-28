@@ -102,7 +102,9 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
 # Testing
 - HTML Validator
    - Results for index.html:
-   ![HTML Testing](../cosmic-crystals/assets/images/html-testing.png)
+   ![HTML Testing](../cosmic-crystals/assets/images/index.html-testing.png)
+   - Results for form.html:
+   ![HTML Testing](../cosmic-crystals/assets/images/form.html-testing.png)
 
 
 # Deployment

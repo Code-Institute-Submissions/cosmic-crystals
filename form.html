@@ -30,8 +30,9 @@
     <section class="form-section">
         <form class="giveaway-form" method="POST" action="https://formdump.codeinstitute.net/">
             <h2>Be in the chance to win an exclusive crystal confetti scoop!</h2>
-
-            <legend>Your Details</legend>
+            <fieldset>
+                <legend>Your Details</legend>
+            </fieldset>
             <br>
             <label for="fname">First Name:</label>
             <input id="fname" name="first_name" class="text-input" type="text" required>
@@ -44,9 +45,11 @@
             <br>
             <br>
 
-            <legend>Find Your Crystal Match</legend>
+            <fieldset>
+                <legend>Find Your Crystal Match</legend>
+            </fieldset>
             <br>
-            <label for="colors">What colours do you feel drawn to the most right now?</label>
+            <label>What colours do you feel drawn to the most right now?</label>
             <input id="fav-colors" name="fav-colors" list="colors" type="text">
             <datalist id="colors">
                 <option value="Pink & Purple">Pink & Purple</option>
@@ -56,8 +59,8 @@
             </datalist>
             <br>
             <br>
-            <section class="crystal-preference">
-            <label for="purpose">What do you hope to achieve by using crystals?</label>
+            <div class="crystal-preference">
+            <label>What do you hope to achieve by using crystals?</label>
             <br>
             <input  type="radio" id="peace" name="crystal-preference" value="peace" required>
             <label for="peace">Peace</label>
@@ -79,10 +82,10 @@
             <label for="positivty">Positivity</label>
             <br>
             <br>
-            </section>
+            </div>
 
-            <section class="statement-preference">
-            <label for="statements">Which statement feels the most true?</label>
+            <div class="statement-preference">
+            <label>Which statement feels the most true?</label>
             <br>
             
             <input id="forgiveness" name="statement-preference" value="forgiveness" type="radio" required>
@@ -101,25 +104,25 @@
             <label for="self-worth">I am struggling with my sense of self-worth & purpose.</label>
             <br>
             <br>
-            </section>
+            </div>
 
             <input class ="submit-button" type="submit" value="Enter Now!">
         </form>
     </section>
     <br>
     <footer>
+        <h3 id="copyright"> Copyright © Cosmic Crystals 2023</h3>
         <ul class="social-media-links">
-          <h3 id="copyright"> Copyright © Cosmic Crystals 2023</h3>
           <li>
-            <a href="https://www.facebook.com/" target="_blank" rel="noopener" aria-labelledby="Visit our Facebook page (opens in a new tab)">
+            <a href="https://www.facebook.com/" target="_blank" rel="noopener" id="facebook" aria-labelledby="facebook">
             <i class="fa-brands fa-facebook" style="color: #8abd91;"></i></a>
           </li>
           <li>
-            <a href="https://www.instagram.com/" target="_blank" rel="noopener" aria-labelledby="Visit our Instagram page (opens in a new tab)">
+            <a href="https://www.instagram.com/" target="_blank" rel="noopener" id="instagram" aria-labelledby="instagram">
               <i class="fa-brands fa-instagram" style="color: #8abd91;"></i></a>
           </li>
           <li>
-            <a href="https://www.etsy.com/" target="_blank" rel="noopener" aria-labelledby="Visit our Etsy page (opens in a new tab)">
+            <a href="https://www.etsy.com/" target="_blank" rel="noopener" id="etsy" aria-labelledby="etsy">
             <i class="fa-brands fa-etsy" style="color: #8abd91;"></i></a>
           </li>
         </ul>
