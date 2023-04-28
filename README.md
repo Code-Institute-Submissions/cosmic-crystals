@@ -107,6 +107,8 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
 ## Content
 - The structure & content topics of the README file are inspired by my mentor, Elaine Roche, from her README file for ['Thrive'](https://github.com/elainebroche-dev/ms1-thrive/blob/master/README.md).
 
+- The content of the 'Find Your Crystal Match' form section was based off the crystal quiz designed by [Whimsy + Wellness](https://whimsyandwellness.com/pages/crystal-quiz)
+
 ## Code
 - Code on how to add a favicon in HTML was taken from the example code on: [W3School HTML Favicon Tutorial ](https://www.w3schools.com/html/html_favicon.asp#:~:text=To%20add%20a%20favicon%20to,is%20%22favicon.ico%22.).   
 
