@@ -306,6 +306,15 @@ section h1{
         accent-color: #e1c4ff;
     }
 
+    /* properties page */
+    #crystal-products{
+        font-family: 'Chivo Mono', monospace;
+        color: rgb(0,0,139);
+        font-size: 40px;
+        text-align: center;
+        clear: both;;
+        text-decoration: underline;
+    }
     
 
    
