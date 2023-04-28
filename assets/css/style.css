@@ -330,6 +330,19 @@ section h1{
         float: left;
     }
 
+    .float-right{
+        border-radius: 120px 100px 10px;
+        width: 350px;
+        height: 275px;
+        margin-left: 30px;
+        margin-right: 40px;
+        float: right;
+    }
+
+    #sodalite-container{
+        margin-left: 15px;
+    }
+
     #hc-container{
         align-items: center;
         justify-content: center;
