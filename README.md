@@ -63,7 +63,15 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
       - (As Cosmic Crystals is a fictitious business, the social media links only direct the user to the social media websites).
     
     
-      ![Footer](../cosmic-crystals/assets/images/footer.png)
+      ![Footer Section](../cosmic-crystals/assets/images/footer.png)
+
+      -   __F03 Form Section__
+
+    - The 'Win Crystals' form allows the users to enter a giveaway that, if successful, will reward them with a collection of crystals tailored to their wants & needs. 
+    - The purpose of the user providing their name & email address is solely for communication purposes so that, if they are successful, the business can contact them to receive their shipping address to deliver their prize. 
+    - As for the 'Find Your Crystal Match', the options that the users select help to inform the organisation about the crystals they should give the user within their confetti scoop based on the properties of each crystal whilst regarding the users' wants & needs.
+    
+      ![Form Section](../cosmic-crystals/assets/images/form-section.png)
 
 
 
