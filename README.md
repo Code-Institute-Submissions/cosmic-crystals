@@ -112,4 +112,4 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
 - The hero-image by [Castorly Stock](https://www.pexels.com/@castorlystock/) was taken from [Pexels](https://www.pexels.com/photo/close-up-photo-of-crystals-3725728/)
 - The animated images for the flip-card animation are from [Freepik](https://www.freepik.com/) & the following author [Vectorjuice](https://www.freepik.com/author/vectorjuice).
 - The social media icons in the footer were imported from [Font Awesome:](https://fontawesome.com/)
-- The background image by [Jonny Lew](https://www.pexels.com/@jonnylew/) for the form section was taken from [Pexels](https://www.pexels.com/photo/closeup-photo-of-purple-gemstones-1121123/)
+- The background image by [Karolina Grabowska](https://www.pexels.com/@karolina-grabowska/) for the form section was taken from [Pexels](https://www.pexels.com/photo/photo-of-assorted-crystals-4040641/).

@@ -235,19 +235,20 @@ section h1{
     /* form section */
 
     .form-section{
-        background-image: url(https://images.pexels.com/photos/1121123/pexels-photo-1121123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+        background-image: url(https://images.pexels.com/photos/4040641/pexels-photo-4040641.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
         background-size:cover;
         background-repeat:no-repeat;
-        height: 900px;
+        height: 1000px;
         clear: left;
     }
 
     .giveaway-form{
-        background-color:rgba(176, 224, 230, .7);
-        width: 1000px;
+        background-color:rgba(176, 224, 230, .8);
+        width: 550px;
         padding: 30px;
         margin-top: 45px;
-        margin-left: 15%;
+        margin-right: 10%;
+        margin-left:35px;
         position:absolute;
     }
 
@@ -261,7 +262,7 @@ section h1{
 
     .text-input{
         background:transparent;
-        border: 2px solid #e1c4ff;
+        border: 2px solid white;
         width: 100%;
         margin: 5px 0 5px 0;
     }
@@ -269,7 +270,7 @@ section h1{
     legend {
         font-family: 'Chivo Mono', monospace;
         text-decoration: underline;
-        color: #e1c4ff;
+        color: white;
         font-size: 1.125em;
     }
 
