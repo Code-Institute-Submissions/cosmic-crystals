@@ -71,7 +71,6 @@
 #cover-text{
     font-size: 150%;
     font-family: Chivo Mono, monospace;
-    text-transform: uppercase;
 
     width: 500px;
     height: 250px;
@@ -89,6 +88,8 @@
 #cover-text, #cover-text h2{
     color: white;
     text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
 }
 
 /* button */
@@ -132,7 +133,7 @@
 
 
 /* Crystal Benefits */
-section h1{
+section h2{
     color: rgb(0,0,139);
     font-family: 'Chivo Mono', monospace;
     font-size: 2rem;
@@ -185,10 +186,10 @@ section h1{
     
     .flip-card-back p{
         font-family: Space Grotesk, sans-serif;
-        font-size: 15x ;
+        font-size: 15px ;
     }
 
-    .flip-card-back h1{
+    .flip-card-back h2{
         font-family: 'Chivo Mono', monospace;
         color: rgb(0,0,139);
         text-transform: uppercase;
@@ -309,7 +310,8 @@ section h1{
     /* properties page */
     #properties-page{
         background-color: #e1c4ff;
-        clear: left;
+        clear: both;
+        overflow: auto;
     }
     #crystal-products{
         font-family: 'Chivo Mono', monospace;
@@ -326,6 +328,7 @@ section h1{
         height: 275px;
         margin-left: 15px;
         margin-right: 15px;
+        margin-bottom: 10px;
         border: 5px solid #8ABD91;
         float: left;
     }

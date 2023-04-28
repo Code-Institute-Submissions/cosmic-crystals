@@ -73,6 +73,14 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
     
       ![Form Section](../cosmic-crystals/assets/images/form-section.png)
 
+       -   __F03 Crystal Products__
+
+    - The 'Properties' page provides the user with a list of crystals alongside their purposes, which is valuable to users with little/no knowledge as they can gain a deeper understanding of the behaviours of different crystals; it also aids the users in identifying users which crystals tailor to their wants & needs which influences them to purchase the products with greater confidence. 
+    - For consistency, the use of the same colour palette, as seen across all three pages, allows the content to blend seamlessly as the user navigates across the site which, in turn, results in minimal distraction as the users' attention isn't drawn away from the contents of the page they're searching for. 
+    
+      ![Properties Page](../cosmic-crystals/assets/images/properties-page-2.png)
+      ![Properties Page](../cosmic-crystals/assets/images/properties-page-1.png)
+
 
 
 # Technologies Used
@@ -92,6 +100,10 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
 
 
 # Testing
+- HTML Validator
+   - Results for index.html:
+   ![HTML Testing](../cosmic-crystals/assets/images/html-testing.png)
+
 
 # Deployment
 
@@ -127,4 +139,4 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
 - The background image by [Karolina Grabowska](https://www.pexels.com/@karolina-grabowska/) for the form section was taken from [Pexels](https://www.pexels.com/photo/photo-of-assorted-crystals-4040641/).
 - The images used in the 'Properties' were taken from the following authors/websites :
    - [Crystal Council](https://thecrystalcouncil.com)
-   - 
+   - [ReikiCrystalsShop](https://www.etsy.com/uk/shop/ReikiCrystalsShop?ref=simple-shop-header-name&listing_id=959790927)
