@@ -109,6 +109,8 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
 
 - The content of the 'Find Your Crystal Match' form section was based off the crystal quiz designed by [Whimsy + Wellness](https://whimsyandwellness.com/pages/crystal-quiz)
 
+- The descriptions of the products on the 'Properties' page were selected from [ReikiCrystalsShop](https://www.etsy.com/uk/shop/ReikiCrystalsShop?ref=simple-shop-header-name&listing_id=959790927)
+
 ## Code
 - Code on how to add a favicon in HTML was taken from the example code on: [W3School HTML Favicon Tutorial ](https://www.w3schools.com/html/html_favicon.asp#:~:text=To%20add%20a%20favicon%20to,is%20%22favicon.ico%22.).   
 
@@ -123,3 +125,6 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
 - The animated images for the flip-card animation are from [Freepik](https://www.freepik.com/) & the following author [Vectorjuice](https://www.freepik.com/author/vectorjuice).
 - The social media icons in the footer were imported from [Font Awesome:](https://fontawesome.com/)
 - The background image by [Karolina Grabowska](https://www.pexels.com/@karolina-grabowska/) for the form section was taken from [Pexels](https://www.pexels.com/photo/photo-of-assorted-crystals-4040641/).
+- The images used in the 'Properties' were taken from the following authors/websites :
+   - [Crystal Council](https://thecrystalcouncil.com/crystals/honey-calcite)
+   - 
