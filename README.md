@@ -126,5 +126,5 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
 - The social media icons in the footer were imported from [Font Awesome:](https://fontawesome.com/)
 - The background image by [Karolina Grabowska](https://www.pexels.com/@karolina-grabowska/) for the form section was taken from [Pexels](https://www.pexels.com/photo/photo-of-assorted-crystals-4040641/).
 - The images used in the 'Properties' were taken from the following authors/websites :
-   - [Crystal Council](https://thecrystalcouncil.com/crystals/honey-calcite)
+   - [Crystal Council](https://thecrystalcouncil.com)
    - 

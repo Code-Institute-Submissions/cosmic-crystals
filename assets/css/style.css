@@ -204,7 +204,7 @@ section h1{
 
     /* footer */
     footer{
-        height: 20%;
+        height: 10px;
         display: inline;
     }
     
@@ -309,7 +309,7 @@ section h1{
     /* properties page */
     #properties-page{
         background-color: #e1c4ff;
-        clear: both;
+        clear: left;
     }
     #crystal-products{
         font-family: 'Chivo Mono', monospace;
@@ -320,7 +320,7 @@ section h1{
         text-decoration: underline;
     }
 
-    div > img{
+    .img-container {
         border-radius: 120px 100px 10px;
         width: 350px;
         height: 275px;
@@ -332,10 +332,12 @@ section h1{
 
     .float-right{
         border-radius: 120px 100px 10px;
+        border: 5px solid #8ABD91;
         width: 350px;
         height: 275px;
         margin-left: 30px;
         margin-right: 40px;
+        margin-bottom: 10px;
         float: right;
     }
 
@@ -344,6 +346,11 @@ section h1{
     }
 
     #hc-container{
+        align-items: center;
+        justify-content: center;
+    }
+
+    #amethyst-container{
         align-items: center;
         justify-content: center;
     }
