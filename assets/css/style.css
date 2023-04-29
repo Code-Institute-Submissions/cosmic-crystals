@@ -369,7 +369,7 @@ section h2{
         font-size: 20px;
     }
 
-    #product-title {
+    div > h3 {
         font-family: 'Chivo Mono', monospace;
         font-size: 25px;
         color: rgb(0,0,139);
