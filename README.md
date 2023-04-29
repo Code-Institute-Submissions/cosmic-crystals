@@ -91,9 +91,9 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
     - Individual images of the crystals alongside their descriptions ensure the users' experience is more engaging as it breaks up the volume of text, making their reading more enticing.  
 
 -   ### Colour Scheme
-    -  A citrus/pastel palette was chosen to convey a fresh, energetic mood.  The colours picked were inspired by a palette from [Lily Bug Design](https://www.lilybugdesign.co.nz/colour-wall)
+    -  A colour palette consisting of lilac, sage green & blue tones was chosen as the colours link to those of different crystals including amethyst, sodalite, green calcite etc. 
 
-        ![Colour Palette](documentation/supp-images/citruspalette.png)
+      
 
 -   ### Typography
     -   Google Fonts were used to import Lato and Oswald fonts into styles.css.  These were chosen as they work well together and have a simple, unembellished, modern feel that is easy to read.
