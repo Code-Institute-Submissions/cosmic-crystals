@@ -2,7 +2,7 @@
 
 [View the live project here](https://lucynowland.github.io/cosmic-crystals/)
 
-Cosmic Crystals is a fictional business that primarily promotes raw crystals; its product range also consists of incense, essential oils & charging bowls to cleanse the energy of the crystals. The site targets those with little/no knowledge regarding the use of crystals & their energy. As a result, the site is useful for its users as they have the ability to seek out information & guidance regarding the various properties across a range of crystals alongside the aftercare in maintaining the crystals' energy.
+Cosmic Crystals is a fictional business that primarily promotes raw crystals; its product range also consists charging bowls to cleanse the energy of the crystals. The site targets those with little/no knowledge regarding the use of crystals & their energy. As a result, the site is useful for its users as they have the ability to seek out information & guidance regarding the various properties across a range of crystals alongside the aftercare in maintaining the crystals' energy.
 <!-- Add Am I Responsive? image -->
 
 
@@ -93,6 +93,8 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
 -   ### Colour Scheme
     -  A colour palette consisting of lilac, sage green & blue tones was chosen as the colours link to those of different crystals including amethyst, sodalite, green calcite etc. 
 
+    - ![Color Palette](../cosmic-crystals/assets/images/color-palette.png)
+
       
 
 -   ### Typography
@@ -112,7 +114,7 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
 -   [Git:](https://git-scm.com/) was used for utilising the Gitpod terminal to commit to Git and Push to GitHub.
 -   [GitHub:](https://github.com/) is used as the respository for the projects code after being pushed from Git.
 -   [Font Awesome:](https://fontawesome.com/) was used to add icons for social media links located in the footer.
-
+-   [Coolors](https://coolors.co/) was used to create the color palette for the design section of the README file. 
 
 
 # Testing
@@ -142,6 +144,12 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
 - 3). On 'branch deployment' had been selected, underneath, set the branch type to 'main' and the folder type to 'root'; once selected press 'Save' to successfully deploy the site.  
 
   The live link can be found here - [Cosmic Crystals](https://lucynowland.github.io/cosmic-crystals/) 
+
+  ### How to clone the repository
+
+- 1). On GitHub, go to https://github.com/lucynowland/cosmic-crystals.
+- 2). Click the 'Code' button followed by the HTTPS copy link. 
+- 3). Open a GitBash terminal & type 'git clone' followed by the HTTPS link previously copied to begin the cloning process. 
 
 # Credits
 ## Content
