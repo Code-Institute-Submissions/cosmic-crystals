@@ -96,7 +96,8 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
       
 
 -   ### Typography
-    -   Google Fonts were used to import Lato and Oswald fonts into styles.css.  These were chosen as they work well together and have a simple, unembellished, modern feel that is easy to read.
+    - Google fonts were used to import 'Chivo Mono' & 'Space Grotesk'. These fonts provide the site with an astrological quality which ties in with the product portfolio as crystals are often associated with factors such as the universe & manifestations.   
+  
 
 # Technologies Used
 
