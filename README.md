@@ -1,5 +1,7 @@
 <h1 align="center">Cosmic Crystals</h1>
-<!-- Insert live project link here -->
+
+[View the live project here](https://lucynowland.github.io/cosmic-crystals/)
+
 Cosmic Crystals is a fictional business that primarily promotes raw crystals; its product range also consists of incense, essential oils & charging bowls to cleanse the energy of the crystals. The site targets those with little/no knowledge regarding the use of crystals & their energy. As a result, the site is useful for its users as they have the ability to seek out information & guidance regarding the various properties across a range of crystals alongside the aftercare in maintaining the crystals' energy.
 <!-- Add Am I Responsive? image -->
 
@@ -73,7 +75,7 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
     
       ![Form Section](../cosmic-crystals/assets/images/form-section.png)
 
-       -   __F03 Crystal Products__
+       -   __F04 Crystal Products__
 
     - The 'Properties' page provides the user with a list of crystals alongside their purposes, which is valuable to users with little/no knowledge as they can gain a deeper understanding of the behaviours of different crystals; it also aids the users in identifying users which crystals tailor to their wants & needs which influences them to purchase the products with greater confidence. 
     - For consistency, the use of the same colour palette, as seen across all three pages, allows the content to blend seamlessly as the user navigates across the site which, in turn, results in minimal distraction as the users' attention isn't drawn away from the contents of the page they're searching for. 
@@ -81,7 +83,20 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
       ![Properties Page](../cosmic-crystals/assets/images/properties-page-2.png)
       ![Properties Page](../cosmic-crystals/assets/images/properties-page-1.png)
 
+## Design
 
+-   ### Imagery
+    - The hero image & the background image for the form section selected provide consistency as they blend with the lilac & sage green tones on all the features across the site; the imagery also reinforces the user of the company's goal to sell crystals & educate the users on their properties and powers. 
+    - Regarding the flip cards, the animated images generate a playful & inviting atmosphere which, in turn, reflects the business's objective as they want their users to be open to exploring the use of crystals and engaging in discovering the crystals suitable for them. 
+    - Individual images of the crystals alongside their descriptions ensure the users' experience is more engaging as it breaks up the volume of text, making their reading more enticing.  
+
+-   ### Colour Scheme
+    -  A citrus/pastel palette was chosen to convey a fresh, energetic mood.  The colours picked were inspired by a palette from [Lily Bug Design](https://www.lilybugdesign.co.nz/colour-wall)
+
+        ![Colour Palette](documentation/supp-images/citruspalette.png)
+
+-   ### Typography
+    -   Google Fonts were used to import Lato and Oswald fonts into styles.css.  These were chosen as they work well together and have a simple, unembellished, modern feel that is easy to read.
 
 # Technologies Used
 
@@ -114,7 +129,7 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
   - Warnings for style.css:
   ![CSS Testing](../cosmic-crystals/assets/images/css-warnings-testing.png)
   The warnings are due to:
-  1). Imported Google fonts
+  - Imported Google fonts
 
 
 # Deployment

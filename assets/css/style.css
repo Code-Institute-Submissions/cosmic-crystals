@@ -375,6 +375,35 @@ section h2{
         color: rgb(0,0,139);
         text-decoration: underline;
     }
+
+    /* Media Queries */
+
+    /* For tablet sizes */
+    @media screen and (max-width: 799px) {
+        #menu li {
+            clear: left;
+            margin-right: 20%;
+            
+        }
+
+        #logo {
+            margin-left: 4.25em;
+        }
+
+
+        #cover-text {
+            right: 0;
+            left: 15%;
+        }
+
+        #flip-card-container {
+            justify-content: center;
+
+        }
+
+
+    }
+    
     
     
     
