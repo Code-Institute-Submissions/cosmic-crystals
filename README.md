@@ -110,7 +110,11 @@ Cosmic Crystals is a fictional business that primarily promotes raw crystals; it
 
 - CSS Validator
   - Results for style.css:
-  ![CSS Testing]()
+  ![CSS Testing](../cosmic-crystals/assets/images/css-testing.png)
+  - Warnings for style.css:
+  ![CSS Testing](../cosmic-crystals/assets/images/css-warnings-testing.png)
+  The warnings are due to:
+  1). Imported Google fonts
 
 
 # Deployment

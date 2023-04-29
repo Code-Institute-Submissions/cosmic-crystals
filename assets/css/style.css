@@ -10,7 +10,7 @@
 
 /* logo */
 #logo{
-    font-family: Chivo Mono, monospace;
+    font-family: 'Chivo Mono', monospace;
     color: #e1c4ff;
     float: left;
     font-size: 280%;
@@ -28,7 +28,7 @@
     float: right;
     list-style-type: none;
     margin-right: 25px;
-    font-family: Space Grotesk, sans-serif;
+    font-family: 'Space Grotesk', sans-serif;
 }
 
 #menu a{
@@ -70,7 +70,7 @@
 
 #cover-text{
     font-size: 150%;
-    font-family: Chivo Mono, monospace;
+    font-family: 'Chivo Mono', monospace;
 
     width: 500px;
     height: 250px;
@@ -104,7 +104,7 @@
   width: 200px;
   transition: all 0.5s;
   cursor: pointer;
-  font-family: Space Grotesk, sans-serif;
+  font-family: 'Space Grotesk', sans-serif;
 }
 .button span {
     cursor: pointer;
@@ -185,7 +185,7 @@ section h2{
       }
     
     .flip-card-back p{
-        font-family: Space Grotesk, sans-serif;
+        font-family: 'Space Grotesk', sans-serif;
         font-size: 15px ;
     }
 
@@ -224,7 +224,7 @@ section h2{
     }
 
     #copyright{
-        font-family: Space Grotesk, sans-serif;
+        font-family: 'Space Grotesk', sans-serif;
         color: #8ABD91;
         text-transform: capitalize;
         font-size: 1.5em;
